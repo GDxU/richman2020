@@ -1,0 +1,247 @@
+{
+	"frames": {
+		"cup_aw": {
+			"frame": {
+				"h": 64,
+				"w": 46,
+				"x": 316,
+				"y": 63
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 46,
+				"x": 9,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 64,
+				"w": 64
+			},
+			"trimmed": true
+		},
+		"dice": {
+			"frame": {
+				"h": 61,
+				"w": 52,
+				"x": 316,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 61,
+				"w": 52,
+				"x": 6,
+				"y": 2
+			},
+			"sourceSize": {
+				"h": 64,
+				"w": 64
+			},
+			"trimmed": true
+		},
+		"evil128": {
+			"frame": {
+				"h": 128,
+				"w": 124,
+				"x": 130,
+				"y": 145
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 128,
+				"w": 124,
+				"x": 2,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 128,
+				"w": 128
+			},
+			"trimmed": true
+		},
+		"hammered": {
+			"frame": {
+				"h": 64,
+				"w": 64,
+				"x": 256,
+				"y": 219
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 64,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 64,
+				"w": 64
+			},
+			"trimmed": false
+		},
+		"island1_1": {
+			"frame": {
+				"h": 72,
+				"w": 85,
+				"x": 256,
+				"y": 145
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 72,
+				"w": 85,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 85
+			},
+			"trimmed": false
+		},
+		"island2": {
+			"frame": {
+				"h": 143,
+				"w": 184,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 143,
+				"w": 184,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 143,
+				"w": 184
+			},
+			"trimmed": false
+		},
+		"island2_1": {
+			"frame": {
+				"h": 72,
+				"w": 92,
+				"x": 0,
+				"y": 274
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 72,
+				"w": 92,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 92
+			},
+			"trimmed": false
+		},
+		"island3_1": {
+			"frame": {
+				"h": 61,
+				"w": 85,
+				"x": 130,
+				"y": 275
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 61,
+				"w": 85,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 61,
+				"w": 85
+			},
+			"trimmed": false
+		},
+		"knife_xa": {
+			"frame": {
+				"h": 63,
+				"w": 64,
+				"x": 256,
+				"y": 285
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 63,
+				"w": 64,
+				"x": 0,
+				"y": 1
+			},
+			"sourceSize": {
+				"h": 64,
+				"w": 64
+			},
+			"trimmed": true
+		},
+		"kraken_alive": {
+			"frame": {
+				"h": 127,
+				"w": 128,
+				"x": 0,
+				"y": 145
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 127,
+				"w": 128,
+				"x": 0,
+				"y": 1
+			},
+			"sourceSize": {
+				"h": 128,
+				"w": 128
+			},
+			"trimmed": true
+		},
+		"kraken_dead": {
+			"frame": {
+				"h": 125,
+				"w": 128,
+				"x": 186,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 125,
+				"w": 128,
+				"x": 0,
+				"y": 2
+			},
+			"sourceSize": {
+				"h": 128,
+				"w": 128
+			},
+			"trimmed": true
+		},
+		"poison-bottle": {
+			"frame": {
+				"h": 32,
+				"w": 16,
+				"x": 94,
+				"y": 274
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 32,
+				"w": 16,
+				"x": 8,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 32,
+				"w": 32
+			},
+			"trimmed": true
+		}
+	},
+	"meta": {
+		"image": "jxima.png"
+	}
+}

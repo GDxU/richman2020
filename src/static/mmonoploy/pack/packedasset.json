@@ -1,0 +1,427 @@
+{
+	"frames": {
+		"./black-knight": {
+			"frame": {
+				"h": 64,
+				"w": 56,
+				"x": 116,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 56,
+				"x": 8,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./black-knight2": {
+			"frame": {
+				"h": 56,
+				"w": 56,
+				"x": 0,
+				"y": 190
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 56,
+				"x": 8,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./demon-mage": {
+			"frame": {
+				"h": 56,
+				"w": 48,
+				"x": 0,
+				"y": 248
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 48,
+				"x": 16,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./demon-mage2": {
+			"frame": {
+				"h": 56,
+				"w": 56,
+				"x": 66,
+				"y": 132
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 56,
+				"x": 16,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./demon-spear": {
+			"frame": {
+				"h": 64,
+				"w": 56,
+				"x": 58,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 56,
+				"x": 16,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./demon-spear2": {
+			"frame": {
+				"h": 64,
+				"w": 56,
+				"x": 58,
+				"y": 66
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 56,
+				"x": 16,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./ghoul": {
+			"frame": {
+				"h": 56,
+				"w": 40,
+				"x": 232,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 40,
+				"x": 16,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./ghoul2": {
+			"frame": {
+				"h": 48,
+				"w": 40,
+				"x": 232,
+				"y": 58
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 48,
+				"w": 40,
+				"x": 16,
+				"y": 24
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./orc-knight": {
+			"frame": {
+				"h": 64,
+				"w": 56,
+				"x": 116,
+				"y": 66
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 56,
+				"x": 8,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./orc-knight2": {
+			"frame": {
+				"h": 56,
+				"w": 56,
+				"x": 116,
+				"y": 190
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 56,
+				"x": 8,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./orc-mage": {
+			"frame": {
+				"h": 64,
+				"w": 56,
+				"x": 0,
+				"y": 66
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 56,
+				"x": 8,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./orc-mage2": {
+			"frame": {
+				"h": 56,
+				"w": 64,
+				"x": 0,
+				"y": 132
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 64,
+				"x": 8,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./player-knight": {
+			"frame": {
+				"h": 64,
+				"w": 56,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 56,
+				"x": 8,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 64
+			},
+			"trimmed": true
+		},
+		"./player-knight2": {
+			"frame": {
+				"h": 56,
+				"w": 56,
+				"x": 174,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 56,
+				"x": 8,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./player-mage": {
+			"frame": {
+				"h": 64,
+				"w": 48,
+				"x": 182,
+				"y": 132
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 48,
+				"x": 8,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./player-mage2": {
+			"frame": {
+				"h": 56,
+				"w": 56,
+				"x": 58,
+				"y": 190
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 56,
+				"x": 0,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./player-ranger": {
+			"frame": {
+				"h": 64,
+				"w": 48,
+				"x": 182,
+				"y": 198
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 64,
+				"w": 48,
+				"x": 16,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./player-ranger2": {
+			"frame": {
+				"h": 56,
+				"w": 48,
+				"x": 50,
+				"y": 248
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 48,
+				"x": 16,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./skeleton": {
+			"frame": {
+				"h": 56,
+				"w": 56,
+				"x": 174,
+				"y": 58
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 56,
+				"x": 8,
+				"y": 16
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./skeleton2": {
+			"frame": {
+				"h": 48,
+				"w": 56,
+				"x": 100,
+				"y": 248
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 48,
+				"w": 56,
+				"x": 8,
+				"y": 24
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		},
+		"./spark": {
+			"frame": {
+				"h": 56,
+				"w": 56,
+				"x": 124,
+				"y": 132
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 56,
+				"w": 56,
+				"x": 8,
+				"y": 8
+			},
+			"sourceSize": {
+				"h": 72,
+				"w": 72
+			},
+			"trimmed": true
+		}
+	},
+	"meta": {
+		"image": "packedasset.png"
+	}
+}

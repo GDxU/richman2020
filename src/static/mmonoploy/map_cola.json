@@ -1,0 +1,123 @@
+{
+  "map_waypoints": [
+    {
+      "id": 1,
+      "name": "cno",
+      "step": [
+        44,
+        43
+      ],
+      "building": [
+        29,
+        29
+      ],
+      "levels": [
+        {
+          "price": 199
+        },
+        {
+          "price": 299
+        },
+        {
+          "price": 399
+        },
+        {
+          "price": 499
+        },
+        {
+          "price": 599
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "cno",
+      "step": [
+        44,
+        43
+      ],
+      "building": [
+        29,
+        29
+      ],
+      "levels": [
+        {
+          "price": 199
+        },
+        {
+          "price": 299
+        },
+        {
+          "price": 399
+        },
+        {
+          "price": 499
+        },
+        {
+          "price": 599
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "cno",
+      "step": [
+        44,
+        43
+      ],
+      "building": [
+        29,
+        29
+      ],
+      "levels": [
+        {
+          "price": 199
+        },
+        {
+          "price": 299
+        },
+        {
+          "price": 399
+        },
+        {
+          "price": 499
+        },
+        {
+          "price": 599
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "cno",
+      "step": [
+        44,
+        43
+      ],
+      "building": [
+        29,
+        29
+      ],
+      "levels": [
+        {
+          "price": 199
+        },
+        {
+          "price": 299
+        },
+        {
+          "price": 399
+        },
+        {
+          "price": 499
+        },
+        {
+          "price": 599
+        }
+      ]
+    }
+  ],
+  "map_waypoint_specials": true,
+  "map_src_id": "dci",
+  "file": "focas"
+}

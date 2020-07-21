@@ -1,0 +1,667 @@
+{
+	"frames": {
+		"sign/font02_b": {
+			"frame": {
+				"h": 9,
+				"w": 9,
+				"x": 64,
+				"y": 109
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 9,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 9,
+				"w": 9
+			},
+			"trimmed": false
+		},
+		"sign/font03_c": {
+			"frame": {
+				"h": 8,
+				"w": 8,
+				"x": 100,
+				"y": 110
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 8,
+				"w": 8,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 8,
+				"w": 8
+			},
+			"trimmed": false
+		},
+		"sign/font04_d": {
+			"frame": {
+				"h": 9,
+				"w": 9,
+				"x": 122,
+				"y": 38
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 9,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 9,
+				"w": 9
+			},
+			"trimmed": false
+		},
+		"sign/font05_e": {
+			"frame": {
+				"h": 8,
+				"w": 8,
+				"x": 100,
+				"y": 90
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 8,
+				"w": 8,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 8,
+				"w": 8
+			},
+			"trimmed": false
+		},
+		"sign/font06_f": {
+			"frame": {
+				"h": 9,
+				"w": 9,
+				"x": 64,
+				"y": 98
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 9,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 9,
+				"w": 9
+			},
+			"trimmed": false
+		},
+		"sign/font07_g": {
+			"frame": {
+				"h": 8,
+				"w": 8,
+				"x": 100,
+				"y": 80
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 8,
+				"w": 8,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 8,
+				"w": 8
+			},
+			"trimmed": false
+		},
+		"sign/font08_h": {
+			"frame": {
+				"h": 9,
+				"w": 9,
+				"x": 133,
+				"y": 38
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 9,
+				"w": 9,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 9,
+				"w": 9
+			},
+			"trimmed": false
+		},
+		"sign/font09_i": {
+			"frame": {
+				"h": 8,
+				"w": 8,
+				"x": 100,
+				"y": 100
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 8,
+				"w": 8,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 8,
+				"w": 8
+			},
+			"trimmed": false
+		},
+		"sign/font10_j": {
+			"frame": {
+				"h": 15,
+				"w": 15,
+				"x": 36,
+				"y": 126
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 15,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 15,
+				"w": 15
+			},
+			"trimmed": false
+		},
+		"sign/font11_k": {
+			"frame": {
+				"h": 15,
+				"w": 15,
+				"x": 53,
+				"y": 126
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 15,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 15,
+				"w": 15
+			},
+			"trimmed": false
+		},
+		"sign/font12_l": {
+			"frame": {
+				"h": 15,
+				"w": 15,
+				"x": 110,
+				"y": 126
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 15,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 15,
+				"w": 15
+			},
+			"trimmed": false
+		},
+		"sign/font13_m": {
+			"frame": {
+				"h": 15,
+				"w": 15,
+				"x": 127,
+				"y": 126
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 15,
+				"w": 15,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 15,
+				"w": 15
+			},
+			"trimmed": false
+		},
+		"sign/font14_n": {
+			"frame": {
+				"h": 6,
+				"w": 11,
+				"x": 144,
+				"y": 36
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 6,
+				"w": 11,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 6,
+				"w": 11
+			},
+			"trimmed": false
+		},
+		"sign/font21_u": {
+			"frame": {
+				"h": 48,
+				"w": 42,
+				"x": 0,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 48,
+				"w": 42,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 48,
+				"w": 42
+			},
+			"trimmed": false
+		},
+		"sign/font24_x": {
+			"frame": {
+				"h": 45,
+				"w": 36,
+				"x": 40,
+				"y": 50
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 45,
+				"w": 36,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 45,
+				"w": 36
+			},
+			"trimmed": false
+		},
+		"sign/font25_y": {
+			"frame": {
+				"h": 45,
+				"w": 36,
+				"x": 84,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 45,
+				"w": 36,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 45,
+				"w": 36
+			},
+			"trimmed": false
+		},
+		"sign/font26_z": {
+			"frame": {
+				"h": 36,
+				"w": 20,
+				"x": 122,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 36,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 36,
+				"w": 20
+			},
+			"trimmed": false
+		},
+		"sign/font27_A": {
+			"frame": {
+				"h": 36,
+				"w": 20,
+				"x": 110,
+				"y": 50
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 36,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 36,
+				"w": 20
+			},
+			"trimmed": false
+		},
+		"sign/font28_B": {
+			"frame": {
+				"h": 36,
+				"w": 20,
+				"x": 78,
+				"y": 80
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 36,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 36,
+				"w": 20
+			},
+			"trimmed": false
+		},
+		"sign/font29_C": {
+			"frame": {
+				"h": 36,
+				"w": 20,
+				"x": 110,
+				"y": 88
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 36,
+				"w": 20,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 36,
+				"w": 20
+			},
+			"trimmed": false
+		},
+		"sign/font30_D": {
+			"frame": {
+				"h": 21,
+				"w": 18,
+				"x": 132,
+				"y": 102
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 21,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 21,
+				"w": 18
+			},
+			"trimmed": false
+		},
+		"sign/font31_E": {
+			"frame": {
+				"h": 21,
+				"w": 18,
+				"x": 132,
+				"y": 79
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 21,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 21,
+				"w": 18
+			},
+			"trimmed": false
+		},
+		"sign/font36_J": {
+			"frame": {
+				"h": 15,
+				"w": 16,
+				"x": 0,
+				"y": 126
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 15,
+				"w": 16,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 15,
+				"w": 16
+			},
+			"trimmed": false
+		},
+		"sign/font39_M": {
+			"frame": {
+				"h": 46,
+				"w": 38,
+				"x": 0,
+				"y": 50
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 46,
+				"w": 38,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 46,
+				"w": 38
+			},
+			"trimmed": false
+		},
+		"sign/font47_U": {
+			"frame": {
+				"h": 46,
+				"w": 38,
+				"x": 44,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 46,
+				"w": 38,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 46,
+				"w": 38
+			},
+			"trimmed": false
+		},
+		"sign/font50_X": {
+			"frame": {
+				"h": 26,
+				"w": 30,
+				"x": 32,
+				"y": 98
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 26,
+				"w": 30
+			},
+			"trimmed": false
+		},
+		"sign/font51_Y": {
+			"frame": {
+				"h": 24,
+				"w": 16,
+				"x": 78,
+				"y": 118
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 24,
+				"w": 16,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 24,
+				"w": 16
+			},
+			"trimmed": false
+		},
+		"sign/font54_1": {
+			"frame": {
+				"h": 26,
+				"w": 30,
+				"x": 0,
+				"y": 98
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 26,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 26,
+				"w": 30
+			},
+			"trimmed": false
+		},
+		"sign/font60_7": {
+			"frame": {
+				"h": 28,
+				"w": 30,
+				"x": 78,
+				"y": 50
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 28,
+				"w": 30,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 28,
+				"w": 30
+			},
+			"trimmed": false
+		},
+		"sign/font63_0": {
+			"frame": {
+				"h": 16,
+				"w": 14,
+				"x": 144,
+				"y": 18
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 16,
+				"w": 14,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 16,
+				"w": 14
+			},
+			"trimmed": false
+		},
+		"sign/font64_6": {
+			"frame": {
+				"h": 15,
+				"w": 16,
+				"x": 18,
+				"y": 126
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 15,
+				"w": 16,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 15,
+				"w": 16
+			},
+			"trimmed": false
+		},
+		"sign/font65_3": {
+			"frame": {
+				"h": 16,
+				"w": 14,
+				"x": 144,
+				"y": 0
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 16,
+				"w": 14,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 16,
+				"w": 14
+			},
+			"trimmed": false
+		},
+		"sign/font68_4": {
+			"frame": {
+				"h": 27,
+				"w": 18,
+				"x": 132,
+				"y": 50
+			},
+			"rotated": false,
+			"spriteSourceSize": {
+				"h": 27,
+				"w": 18,
+				"x": 0,
+				"y": 0
+			},
+			"sourceSize": {
+				"h": 27,
+				"w": 18
+			},
+			"trimmed": false
+		}
+	},
+	"meta": {
+		"image": "signnature.png"
+	}
+}
